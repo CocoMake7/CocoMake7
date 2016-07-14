@@ -1,0 +1,6 @@
+commit c9659350fb3c3b1e79017c0df133a7edcf767748
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Fri Jul 15 00:37:34 2016 +0700
+
+    delete support for oldver arduino ide
+30cf7510b394e420cfd24d59fd862d1395737e3fc84131be9d9377fa4b320ee6

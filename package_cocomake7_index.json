@@ -1,6 +1,5 @@
 		{
   "packages": [{
-    "about" : "ok",
     "name": "CocoMake7",
     "maintainer": "CocoMake7",
     "websiteURL": "https://github.com/CocoMake7/CocoMake7",
@@ -17,6 +16,31 @@
         "url" : "http://cocomake7.github.io/CocoMake7/boards/cocomake7-0.0.1.tar.gz",
         "archiveFileName" : "cocomake7-0.0.1.tar.gz",
         "checksum" : "SHA-256:bc210dca394939484f75587eef4193b234bdb198328fd40ade4369b31cabd356",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/CocoMake7/CocoMake7"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "8BitMixtape"
+					},					
+					{
+						"name" : "CocoMake7"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
+		,		      {
+        "name" : "CocoMake7",
+        "architecture" : "avr",
+        "version" : "0.0.2",
+        "category" : "contributed",
+        "url" : "http://cocomake7.github.io/CocoMake7/boards/cocomake7-0.0.2.tar.gz",
+        "archiveFileName" : "cocomake7-0.0.2.tar.gz",
+        "checksum" : "SHA-256:30cf7510b394e420cfd24d59fd862d1395737e3fc84131be9d9377fa4b320ee6",
         "size" : "",
         "help" : {
           "online" : "https://github.com/CocoMake7/CocoMake7"
