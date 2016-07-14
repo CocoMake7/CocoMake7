@@ -1,0 +1,72 @@
+		{
+  "packages": [{
+    "about" : "ok",
+    "name": "CocoMake7",
+    "maintainer": "CocoMake7",
+    "websiteURL": "https://github.com/CocoMake7/CocoMake7",
+    "email": "iyok@deadmediafm.org",
+    "help": {
+      "online": "https://github.com/CocoMake7/CocoMake7"
+    },
+    "platforms": [
+        		      {
+        "name" : "CocoMake7",
+        "architecture" : "avr",
+        "version" : "0.0.1",
+        "category" : "contributed",
+        "url" : "http://cocomake7.github.io/CocoMake7/boards/cocomake7-0.0.1.tar.gz",
+        "archiveFileName" : "cocomake7-0.0.1.tar.gz",
+        "checksum" : "SHA-256:bc210dca394939484f75587eef4193b234bdb198328fd40ade4369b31cabd356",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/CocoMake7/CocoMake7"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "8BitMixtape"
+					},					
+					{
+						"name" : "CocoMake7"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
+		
+    ],
+    "tools": [{
+      "name": "micronucleus",
+      "version": "2.0a4",
+      "systems": [{
+          "host": "x86_64-apple-darwin",
+          "archiveFileName": "micronucleus-2.0a4-osx.tar.gz",
+          "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-osx.tar.gz",
+          "checksum": "SHA-256:B5EB0C7B251CD88F4816186BB931855834141E71A28D90FB9E46788E483AA421",
+          "size": "51203"
+        }, {
+          "host": "i686-mingw32",
+          "archiveFileName": "micronucleus-2.0a4-win.zip",
+          "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-win.zip",
+          "checksum": "SHA-256:7738d2a2a46a13771ac567ca3797a4867bcb802e7ca12e41941448645b035c6c",
+          "size": "1712001"
+        }, {
+          "host": "i686-linux-gnu",
+          "archiveFileName": "micronucleus-2.0a4-linux32.tar.gz",
+          "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-linux32.tar.gz",
+          "checksum": "SHA-256:0D4286388EED28D1ECB29AFE81253F24F54D4F0A5C1B2C17507EABD504C595F8",
+          "size": "21909"
+        }, {
+          "host": "x86_64-linux-gnu",
+          "archiveFileName": "micronucleus-2.0a4-linux64.tar.gz",
+          "url": "https://teenyriot.github.io/TeenyRiot/tools/micronucleus-2.0a4-linux64.tar.gz",
+          "checksum": "SHA-256:1f545c0bb60e85a604901c2d7044772ac91776594c209c571dfedad4a70195b8",
+          "size": "22874"
+        }
+
+      ]
+    }]
+  }]
+}
+		
