@@ -1,0 +1,6 @@
+commit 35a6131eb8c238891b51d83d932997b7bcc76e50
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sat Jul 16 10:40:40 2016 +0700
+
+    remove cocomidi
+014320f26d7a8a8777749a02d2291ac564e7b20e84372406e6e4e5e8d994c902
