@@ -1,0 +1,6 @@
+commit 216036926424fb9a51dfeb8796aaeb1818d4727b
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sat Jul 16 09:16:54 2016 +0700
+
+    remove micronucleus support
+020e91686d6a3a2b0d3586155cd8356854e196fc9872d9078fddd626538eb25f
