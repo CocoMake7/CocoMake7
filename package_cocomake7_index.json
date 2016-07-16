@@ -108,6 +108,31 @@
           
         ]
       }
+		,		      {
+        "name" : "CocoMake7",
+        "architecture" : "avr",
+        "version" : "0.0.5",
+        "category" : "contributed",
+        "url" : "http://cocomake7.github.io/CocoMake7/boards/cocomake7-0.0.5.tar.gz",
+        "archiveFileName" : "cocomake7-0.0.5.tar.gz",
+        "checksum" : "SHA-256:54f4ca2cb61aa39d4eac6d9ddaa9c660b2bb503762f16c71c5b0b799c075a442",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/CocoMake7/CocoMake7"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "8BitMixtape"
+					},					
+					{
+						"name" : "CocoMake7"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
 		
     ],
     "tools": []
