@@ -140,7 +140,7 @@
         "category" : "contributed",
         "url" : "http://cocomake7.github.io/CocoMake7/boards/cocomake7-0.0.6.tar.gz",
         "archiveFileName" : "cocomake7-0.0.6.tar.gz",
-        "checksum" : "SHA-256:3c2713553115a294c40c2ec3f20ceacce60c2635da9808d0eb594ddd8ee19787",
+        "checksum" : "SHA-256:27a2a5a835e0841335f6ff04342c897ccc1dcea5d14b133f5eef2946723f0e63",
         "size" : "",
         "help" : {
           "online" : "https://github.com/CocoMake7/CocoMake7"
