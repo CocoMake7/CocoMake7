@@ -1,0 +1,6 @@
+commit 04282331e07adef11a68fadb68da668e8cec29cd
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Jul 17 21:14:43 2016 +0700
+
+    remove library alias since we have auto rebranding
+60123e31b5d4c0e273bd14bc0bfb12d06c24fa03d918449ebdfcf5e91174617f
