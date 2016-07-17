@@ -3,4 +3,4 @@ Author: xcorex <xcorex@MANTICORE.local>
 Date:   Sun Jul 17 21:14:43 2016 +0700
 
     remove library alias since we have auto rebranding
-12e5759865dc93bb637e6f3f87fab72c1394547f41fbfc97d52b96c57ac969d1
+72b100d2df5edde818897e2ef50b3b606bb78d4d9af09bcbf36fe0ea70c69b40
