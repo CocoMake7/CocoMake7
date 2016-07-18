@@ -1,0 +1,6 @@
+commit d0c685dd66757a68e4af966b0480f2bf2fb55ed9
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Mon Jul 18 10:09:27 2016 +0700
+
+    remove alias
+c19e7aa9869ecb7da5e898171a3899e6588c9c881cbcbb2f1b38401b159fe1f5
