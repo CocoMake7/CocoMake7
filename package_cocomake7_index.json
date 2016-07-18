@@ -23,9 +23,6 @@
         "boards" : [
           					
 					{
-						"name" : "8BitMixtape"
-					},					
-					{
 						"name" : "CocoMake7"
 					}
         ],
@@ -47,9 +44,6 @@
         },
         "boards" : [
           					
-					{
-						"name" : "8BitMixtape"
-					},					
 					{
 						"name" : "CocoMake7"
 					}
@@ -73,9 +67,6 @@
         "boards" : [
           					
 					{
-						"name" : "8BitMixtape"
-					},					
-					{
 						"name" : "CocoMake7"
 					}
         ],
@@ -97,9 +88,6 @@
         },
         "boards" : [
           					
-					{
-						"name" : "8BitMixtape"
-					},					
 					{
 						"name" : "CocoMake7"
 					}
@@ -123,9 +111,6 @@
         "boards" : [
           					
 					{
-						"name" : "8BitMixtape"
-					},					
-					{
 						"name" : "CocoMake7"
 					}
         ],
@@ -147,9 +132,6 @@
         },
         "boards" : [
           					
-					{
-						"name" : "8BitMixtape"
-					},					
 					{
 						"name" : "CocoMake7"
 					}
@@ -173,9 +155,6 @@
         "boards" : [
           					
 					{
-						"name" : "8BitMixtape"
-					},					
-					{
 						"name" : "CocoMake7"
 					}
         ],
@@ -197,9 +176,6 @@
         },
         "boards" : [
           					
-					{
-						"name" : "8BitMixtape"
-					},					
 					{
 						"name" : "CocoMake7"
 					}
