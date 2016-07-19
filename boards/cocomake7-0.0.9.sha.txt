@@ -1,0 +1,6 @@
+commit 801f01bbdf2dcef52886067d7775b3d1a8497530
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Tue Jul 19 22:10:12 2016 +0700
+
+    update touch and keyboard
+ff8b337c3d6041017cf4adeb223c908bfa9017dfa67e0831d9c29f8eea5c1885
