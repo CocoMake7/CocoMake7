@@ -1,0 +1,6 @@
+commit 1489b3db28656bfd404288d15f96c345a8f5e712
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Wed Jul 20 10:19:14 2016 +0700
+
+    update cocotouch
+3d0282ff764622eba1d9d9c0510d93c46fe162d75c345e7f3fc4c4eccfc8208d
