@@ -1,0 +1,8 @@
+commit 722595af19ff0a45467d5179bbfd45b13546665f
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Thu Jul 21 21:02:08 2016 +0700
+
+    Revert "upload bootloader + preloaded keyboard velocity"
+    
+    This reverts commit e210a79e91c8087db300228bf699a3bf30874982.
+178cd71b09f926c4515809331c3cc3ae8db7632a40ba4491e755ef4d86a5be45

@@ -250,6 +250,28 @@
           
         ]
       }
+		,		      {
+        "name" : "CocoMake7",
+        "architecture" : "avr",
+        "version" : "0.0.12",
+        "category" : "contributed",
+        "url" : "http://cocomake7.github.io/CocoMake7/boards/cocomake7-0.0.12.tar.gz",
+        "archiveFileName" : "cocomake7-0.0.12.tar.gz",
+        "checksum" : "SHA-256:178cd71b09f926c4515809331c3cc3ae8db7632a40ba4491e755ef4d86a5be45",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/CocoMake7/CocoMake7"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "CocoMake7"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
 		
     ],
     "tools": []
