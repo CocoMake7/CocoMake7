@@ -1,0 +1,6 @@
+commit e210a79e91c8087db300228bf699a3bf30874982
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Thu Jul 21 13:04:57 2016 +0700
+
+    upload bootloader + preloaded keyboard velocity
+04cbff20bc15517de2616642003f3199cddb34fca4c6033fce3a4ea434bce86a
