@@ -1,0 +1,8 @@
+commit 41bfaef1123f9f00e22894b7204c0a5bc89a2d04
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Thu Jul 21 21:57:38 2016 +0700
+
+    burn bootloader + program bugfix
+    
+    thanks metalab usblinky
+aa974ff0000cfe2faee9fa752f783dd7f73ff78e1484fe8be46ef5cdba53a963
