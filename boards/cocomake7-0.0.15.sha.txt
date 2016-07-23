@@ -1,0 +1,6 @@
+commit 302d823f418ca81c0543e8dda173929ba60adab1
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sat Jul 23 23:58:01 2016 +0700
+
+    fix cocomidi bug
+12e85379c41a7d60729b04aafe9b109a65a3b9e325076dae96e6d32a6d5d4ced
