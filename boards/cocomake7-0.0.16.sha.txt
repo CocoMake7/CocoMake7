@@ -1,0 +1,6 @@
+commit 5a8b53e54e8faf9fc44a603bb88e9a175f1af52a
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Jul 24 01:27:44 2016 +0700
+
+    update cocosynth
+2b51c12c945b05452a29af45cb41d43b4a01ddbf40d3b63dc22dcbeb1cdf858a
