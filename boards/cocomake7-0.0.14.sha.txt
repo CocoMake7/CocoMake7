@@ -1,0 +1,6 @@
+commit d22ee20136a086b8649e44f22f72d1359f65434f
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sat Jul 23 23:31:50 2016 +0700
+
+    fix midi bug
+72ad25142761c877cc9c223f2485f9fe96ed2913065db524cdab0c04aafbf547
