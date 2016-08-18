@@ -1,0 +1,8 @@
+commit d0e5d74eee225562fac9c9545f5cc6a3fad9b8bd
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Thu Aug 18 18:16:50 2016 +0700
+
+    update cocotouch to compatible with cocosynth library
+    
+    fix timing issue
+5899f33ce11f52b841a24f54129da6f020f292332e55dcea4f491ea60ba88ab0
