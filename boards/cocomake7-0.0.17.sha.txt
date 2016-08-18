@@ -1,0 +1,6 @@
+commit 5cba440e7c346c4fb1f62d9cfc0449aa3a9128ca
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Thu Aug 18 13:05:11 2016 +0700
+
+    avrdude windows and osx enable gnubl
+e733f41f6afb49525151509ed50b487308c81f259b93bcbe4f274f832d22a172
